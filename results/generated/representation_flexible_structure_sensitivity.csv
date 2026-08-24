@@ -1,0 +1,6 @@
+analysis,contrast,estimate,lower,upper,se_log
+flexible_country_representation_age_sex,BR_US_RR_ucd,2.98197191383127,2.94512481475253,3.01928001500531,0.00634367326822229
+flexible_country_representation_age_sex,BR_US_RR_any_common,2.43085332148952,2.40574122359969,2.4562275495928,0.00529811207252414
+flexible_country_representation_age_sex,BR_US_RR_alternative,2.46521456435068,2.43987212691444,2.49082022834216,0.00527204956036017
+flexible_country_representation_age_sex,RRR_any_common_vs_ucd,0.815183171315097,0.808068275641233,0.822360712364328,0.00447259365358676
+flexible_country_representation_age_sex,RRR_alternative_vs_any_common,1.01413546533532,1.01327729393862,1.01499436354011,0.000431922481969753

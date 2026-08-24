@@ -1,0 +1,15 @@
+check,status,detail
+exists:primary_standardized_rates.csv,PASS,results/generated/primary_standardized_rates.csv
+exists:primary_representation_contrasts.csv,PASS,results/generated/primary_representation_contrasts.csv
+exists:representation_multiplier_bootstrap_2000.csv,PASS,results/generated/representation_multiplier_bootstrap_2000.csv
+exists:icd10_three_character_subcode_rr_rrr.csv,PASS,results/generated/icd10_three_character_subcode_rr_rrr.csv
+exists:annual_direct_standardized_rates.csv,PASS,results/generated/annual_direct_standardized_rates.csv
+exists:reproduction_gate.csv,PASS,results/generated/reproduction_gate.csv
+primary rates within 1e-8,PASS,0e+00
+primary contrasts within 1e-8,PASS,0e+00
+component contrasts within 1e-8,PASS,0e+00
+cluster multiplier bootstrap within 1e-8,PASS,0e+00
+flexible model sensitivity within 1e-8,PASS,0e+00
+target sensitivity within 1e-8,PASS,0e+00
+selection support sensitivity within 1e-8,PASS,0e+00
+annual direct rates and Poisson log intervals within 1e-8,PASS,rows=52; max_abs_diff=9.9920072216264089e-15

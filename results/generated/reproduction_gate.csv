@@ -1,0 +1,7 @@
+check,status
+936 unique strata,PASS
+WHO18 weights sum to one,PASS
+count nesting,PASS
+primary model converged,PASS
+bootstrap draws complete,PASS
+3744 unique component strata,PASS
