@@ -1,0 +1,12 @@
+gate,status,evidence
+v6 analysis input 936 unique and bounded,PASS,validation/analysis_input_audit.csv
+v6 raw country-year cache integrity and ledger completeness,PASS,audit/raw_scan_cache_ledger.csv
+v6 subcode input 3744 unique and bounded,PASS,audit/subcode_analysis_input_3744.csv
+v6 primary rerun equals frozen v2 core within 1e-8,PASS,validation/v2_core_rerun_comparison.csv
+subcode raw union reproduces frozen input,PASS,audit/subcode_union_vs_frozen_936_audit.csv
+three-character overlap handled as non-mutually-exclusive record mentions,PASS,audit/subcode_any_mention_overlap_by_stratum.csv
+2000 cluster multiplier draws complete,PASS,results/representation_multiplier_bootstrap_2000.csv
+selection common-positive support sensitivity completed,PASS,results/selection_zero_trial_support_and_age_sensitivity.csv
+selection full-grid zero trial extrapolation,LIMITATION_RETAINED,full grid preserves 30 zero-trial cells; support-restricted and observed-only outputs supplied
+country-system semantic and measurement error,LIMITATION_RETAINED,model intervals do not identify certification/coding/release-system measurement error
+cross-country any_common semantic equivalence,LIMITATION_RETAINED,US entity-axis and Brazil certificate-line source representations remain country-specific

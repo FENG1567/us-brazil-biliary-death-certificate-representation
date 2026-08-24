@@ -1,0 +1,45 @@
+"source_section","country","representation","stage","value"
+"cohort_flow","Brazil",,"Raw
+death records",18103175
+"cohort_flow","United States",,"Raw
+death records",38111858
+"cohort_flow","Brazil",,"Resident
+deaths",18103175
+"cohort_flow","United States",,"Resident
+deaths",38022561
+"cohort_flow","Brazil",,"Analytic age-sex
+resident deaths",18028057
+"cohort_flow","United States",,"Analytic age-sex
+resident deaths",38020975
+"cohort_flow","Brazil",,"UCD K80-K83
+analytic",76121
+"cohort_flow","United States",,"UCD K80-K83
+analytic",70668
+"cohort_flow","Brazil",,"country-specific
+any_common analytic",130198
+"cohort_flow","United States",,"country-specific
+any_common analytic",141449
+"parallel_representations","United States","ucd",,70668
+"parallel_representations","United States","any_common",,141449
+"parallel_representations","United States","alternative",,139614
+"parallel_representations","Brazil","ucd",,76121
+"parallel_representations","Brazil","any_common",,130198
+"parallel_representations","Brazil","alternative",,130198
+"validation_boundary","United States
+NCHS / CDC WONDER","UCD K80-K83","green",
+"validation_boundary","Brazil
+SIM / TabNet","UCD K80-K83","green",
+"validation_boundary","Cross-system
+interpretation","UCD K80-K83","red",
+"validation_boundary","United States
+NCHS / CDC WONDER","US-driven structural sensitivity","green",
+"validation_boundary","Brazil
+SIM / TabNet","US-driven structural sensitivity","amber",
+"validation_boundary","Cross-system
+interpretation","US-driven structural sensitivity","red",
+"validation_boundary","United States
+NCHS / CDC WONDER","country-specific any_common","amber",
+"validation_boundary","Brazil
+SIM / TabNet","country-specific any_common","amber",
+"validation_boundary","Cross-system
+interpretation","country-specific any_common","red",

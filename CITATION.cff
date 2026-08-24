@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this code or aggregate reproducibility package, please cite the associated manuscript."
+title: "US-Brazil biliary death-certificate representation study: code and aggregate reproducibility package"
+type: software
+version: 1.0.0
+date-released: 2026-08-24
+authors:
+  - family-names: Feng
+    given-names: Shuo
+  - family-names: Shi
+    given-names: Chao
+  - family-names: Liu
+    given-names: Tianming
+  - family-names: Ding
+    given-names: Haoran
+  - family-names: Hang
+    given-names: Fenghe
+  - family-names: Huang
+    given-names: Zhenghao
+  - family-names: Meng
+    given-names: Xianzhi
+    email: mengxianzhi@hrbmu.edu.cn
+keywords:
+  - mortality
+  - multiple cause of death
+  - CDC WONDER
+  - Brazil SIM
+  - biliary disease
+  - ICD-10 K80-K83
+license: MIT
+repository-code: "https://github.com/FENG1567/us-brazil-biliary-death-certificate-representation"
+preferred-citation:
+  type: article
+  title: "How released death-certificate representations change US-Brazil contrasts in recorded biliary conditions: a two-system measurement study, 2012-2024"
+  authors:
+    - family-names: Feng
+      given-names: Shuo
+    - family-names: Shi
+      given-names: Chao
+    - family-names: Liu
+      given-names: Tianming
+    - family-names: Ding
+      given-names: Haoran
+    - family-names: Hang
+      given-names: Fenghe
+    - family-names: Huang
+      given-names: Zhenghao
+    - family-names: Meng
+      given-names: Xianzhi
+  year: 2026
+  notes: "Manuscript under submission; add journal, DOI and repository archive DOI after acceptance or preprint deposition."

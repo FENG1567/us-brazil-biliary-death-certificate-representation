@@ -1,0 +1,2 @@
+question,decision,evidence,status
+Did the audit require a change to frozen extraction/endpoint definitions?,NO,v6 input totals and primary v2 RR/RRR/selection rerun within 1e-8; record-level subcode union audit must exactly reproduce frozen 936 UCD and any_common counts,PASS

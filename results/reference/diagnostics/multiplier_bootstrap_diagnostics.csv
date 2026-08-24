@@ -1,0 +1,2 @@
+seed,n_clusters,n_boot,multiplier,method,success_rate,note
+20260823,936,2000,"Rademacher, HC1 finite-cluster scaling",score-linearized cluster multiplier bootstrap; preserves three representation score-vector association within each original stratum,1,"This resampling quantifies sampling variation under the model, not national certification/coding/release-system error."

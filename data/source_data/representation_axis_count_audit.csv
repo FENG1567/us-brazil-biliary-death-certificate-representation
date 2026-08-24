@@ -1,0 +1,3 @@
+country,any_common_total,system_processed_alternative_total,alternative_minus_common,alternative_over_common,interpretation
+BR,130198,130198,0,1,Brazil alternative and any_common are exactly identical: zero count change and no Brazil representation shift.
+US,141449,139614,-1835,0.987027126384775,The US alternative is a system-processed record-axis measure; it can be lower than the any_common entity-axis measure and is not a nested expansion.

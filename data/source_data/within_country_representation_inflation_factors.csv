@@ -1,0 +1,7 @@
+country,numerator_representation,denominator_representation,inflation_factor,lower,upper,se_log,estimand
+US,any_common,ucd,2.11064625922597,2.09621496594973,2.12517690406158,0.00350044045692424,within-country ratio of standardized representation rates
+US,system_processed_alternative,ucd,2.0812788010154,2.06745256626236,2.09519749968783,0.00340066728651095,within-country ratio of standardized representation rates
+US,system_processed_alternative,any_common,0.986086034984683,0.985248045187843,0.986924737522749,0.000433762947404002,within-country ratio of standardized representation rates
+BR,any_common,ucd,1.72300158354514,1.71308507085587,1.73297549981908,0.00294489621780837,within-country ratio of standardized representation rates
+BR,system_processed_alternative,ucd,1.72300158354514,1.71308507085605,1.73297549981891,0.00294489621775451,within-country ratio of standardized representation rates
+BR,system_processed_alternative,any_common,1,0.999999974091426,1.00000002590858,1.32186618017896e-08,within-country ratio of standardized representation rates

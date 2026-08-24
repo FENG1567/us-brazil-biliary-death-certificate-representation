@@ -1,0 +1,2 @@
+model,formula,n_observations,n_original_stratum_clusters,n_coefficients,design_rank,converged,pearson_dispersion,max_abs_pearson,n_abs_pearson_gt3,robust_vcov_all_finite,robust_vcov_min_eigenvalue,covariance
+stacked_representation_poisson,count ~ representation * country * factor(year) + representation *      country * age_group + representation * country * sex + offset(log(pop)),2808,936,186,186,TRUE,2.07254508341034,6.42077306877492,96,TRUE,-7.49498075743179e-14,sandwich::vcovCL HC1; cluster=original country-year-age-sex stratum

@@ -1,0 +1,6 @@
+variable,type,definition
+record_id,integer within country-year,deterministic row index after official eligibility and demographic filters; used only for record-level union de-duplication
+subcode,ICD-10 three-character code,K80; K81; K82; or K83
+ucd,binary per record/count after aggregation,underlying cause begins with the named three-character code
+any_common,binary per record/count after aggregation,country-specific source representation: UCD or US entity-axis/Brazil saved certificate-line mention of the named code
+mention_multiplicity,non-mutually-exclusive subcode count per record,sum of four non-mutually-exclusive subcode flags; not a total death count

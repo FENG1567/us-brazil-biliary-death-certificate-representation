@@ -1,0 +1,3 @@
+﻿aggregation,country,year,ucd_count,any_common_count,crude_selection_probability,estimand,interpretation
+country_overall_2012_2024,BR,,76121,130198,0.584655678274628,representation-count-weighted crude sum(ucd)/sum(any_common),"Crude descriptive proportion weighted by observed representation counts; it is not the WHO18-age, sex-0.5/0.5, year-equal standardized estimand."
+country_overall_2012_2024,US,,70668,141449,0.499600562746997,representation-count-weighted crude sum(ucd)/sum(any_common),"Crude descriptive proportion weighted by observed representation counts; it is not the WHO18-age, sex-0.5/0.5, year-equal standardized estimand."

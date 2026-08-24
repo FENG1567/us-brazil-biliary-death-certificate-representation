@@ -1,0 +1,2 @@
+us_selection,br_selection,risk_difference_br_minus_us,rd_lower,rd_upper,risk_ratio_br_over_us,rr_lower,rr_upper,pearson_dispersion,model,estimand
+0.367551229413846,0.527255407194976,0.15970417778113,0.125263131222327,0.194145224339933,1.43450862084129,1.31645899295308,1.56314400545959,1.27964661521619,"quasibinomial with country-by-year, country-by-age, country-by-sex interactions","WHO18-age, sex-equal, year-equal marginal selection contrast"

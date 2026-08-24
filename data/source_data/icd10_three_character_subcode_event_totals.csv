@@ -1,0 +1,9 @@
+subcode,country,country_events,ucd_events,sparse_rule
+K80,BR,39905,27890,"if any country total events <20, model CI is suppressed and output remains descriptive"
+K80,US,24027,13799,"if any country total events <20, model CI is suppressed and output remains descriptive"
+K81,BR,34832,24540,"if any country total events <20, model CI is suppressed and output remains descriptive"
+K81,US,58513,34086,"if any country total events <20, model CI is suppressed and output remains descriptive"
+K82,BR,6169,3477,"if any country total events <20, model CI is suppressed and output remains descriptive"
+K82,US,10485,3331,"if any country total events <20, model CI is suppressed and output remains descriptive"
+K83,BR,62319,20214,"if any country total events <20, model CI is suppressed and output remains descriptive"
+K83,US,60485,19452,"if any country total events <20, model CI is suppressed and output remains descriptive"

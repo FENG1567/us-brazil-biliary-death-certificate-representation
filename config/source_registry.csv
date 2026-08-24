@@ -1,0 +1,13 @@
+source_id,agency,resource,coverage,official_url,role,redistributed
+US_NCHS_MORTALITY,CDC/NCHS,Mortality Multiple Cause-of-Death public-use files,2012-2024,http[local file not redistributed],US record-level mortality source,no
+US_NCHS_FTP,CDC/NCHS,Mortality public-use FTP directory,2012-2024,http[local file not redistributed],US annual raw files and layouts,no
+US_WONDER_MCD,CDC WONDER,Multiple Cause of Death query system,2012-2024,http[local file not redistributed],Bounded aggregate validation,no
+US_WONDER_UCD,CDC WONDER,Underlying Cause of Death expanded query system,2018-2024,http[local file not redistributed],Bounded national UCD validation,no
+US_CENSUS_2000_2010,US Census Bureau,Intercensal national age-sex estimates,2000-2010,http[local file not redistributed],Population denominators,no
+US_CENSUS_2010_2020,US Census Bureau,National resident population estimates by age and sex,2010-2020,http[local file not redistributed],Population denominators,no
+US_CENSUS_2020_2024,US Census Bureau,National resident population estimates by age and sex,2020-2024,http[local file not redistributed],Population denominators,no
+BR_SIM_OPEN,OpenDataSUS/Ministry of Health,SIM open mortality data,2012-2024,http[local file not redistributed],Brazil record-level mortality source,no
+BR_DATASUS_TRANSFER,DATASUS,SIM file transfer portal,2012-2024,http[local file not redistributed],Brazil files and data dictionary,no
+BR_DATASUS_TABNET,DATASUS TabNet,SIM mortality table,2012-2024,http[local file not redistributed],Bounded annual UCD validation,no
+BR_IBGE_2024,IBGE,2024 population projection table 2 by five-year age group,2012-2024 projection,http[local file not redistributed],Population denominators,no
+WHO_SEER_STANDARD,US NCI SEER,Adjusted WHO 2000-2025 standard million,18 age groups,http[local file not redistributed],Direct and model standardization,no

@@ -1,0 +1,2 @@
+mode,n_cache_reused,n_cache_scanned,n_core_hashes_before,n_core_hashes_after,core_hashes_identical,status
+resume_smoke_test,26,0,19,19,TRUE,PASS

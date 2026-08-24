@@ -1,0 +1,2 @@
+model,formula,n_observations,n_coefficients,design_rank,converged,model_based_pearson_dispersion,robust_vcov_all_finite,covariance
+selection_binomial_year_factor_hc1,"cbind(ucd, any_common - ucd) ~ country * factor(year) + country *      age_group + country * sex",906,62,62,TRUE,1.27964648627587,TRUE,sandwich::vcovHC HC1

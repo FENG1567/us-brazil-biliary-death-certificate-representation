@@ -1,0 +1,3 @@
+﻿country,selection_probability,lower,upper,se_logit,estimand,model,interval
+US,0.367551229413846,0.339464571989027,0.396566558631032,0.062726866905971,"WHO18-age, sex-equal, year-equal marginal P(UCD K80-K83 | any_common K80-K83)","quasibinomial with country-by-year, country-by-age, country-by-sex interactions",model-conditional delta interval scaled by Pearson dispersion
+BR,0.527255407194976,0.508004591570118,0.546425516270981,0.0393411749872437,"WHO18-age, sex-equal, year-equal marginal P(UCD K80-K83 | any_common K80-K83)","quasibinomial with country-by-year, country-by-age, country-by-sex interactions",model-conditional delta interval scaled by Pearson dispersion

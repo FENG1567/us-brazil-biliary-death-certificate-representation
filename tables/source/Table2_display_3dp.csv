@@ -1,0 +1,18 @@
+﻿Metric,Representation,"US rate /100,000","Brazil rate /100,000",Estimate (95% CI),Interpretation
+BR/US standardized RR,ucd,0.822 (0.813 to 0.831),2.444 (2.418 to 2.470),2.973 (2.927 to 3.020),Released-representation contrast
+BR/US standardized RR,any_common,1.735 (1.719 to 1.751),4.211 (4.173 to 4.250),2.427 (2.396 to 2.459),Released-representation contrast
+BR/US standardized RR,system_processed_alternative,1.711 (1.695 to 1.727),4.211 (4.173 to 4.250),2.461 (2.429 to 2.494),Released-representation contrast
+Representation RRR,any_common / ucd,,,0.816 (0.809 to 0.824),(BR/US RR numerator)/(BR/US RR denominator)
+Representation RRR,system_processed_alternative / any_common,,,1.014 (1.013 to 1.015),(BR/US RR numerator)/(BR/US RR denominator)
+Within-country factor,US: any_common / ucd,,,2.111 (2.096 to 2.125),Standardized representation-rate factor
+Within-country factor,US: system_processed_alternative / ucd,,,2.081 (2.067 to 2.095),Standardized representation-rate factor
+Within-country factor,US: system_processed_alternative / any_common,,,0.986 (0.985 to 0.987),Standardized representation-rate factor
+Within-country factor,BR: any_common / ucd,,,1.723 (1.713 to 1.733),Standardized representation-rate factor
+Within-country factor,BR: system_processed_alternative / ucd,,,1.723 (1.713 to 1.733),Standardized representation-rate factor
+Within-country factor,BR: system_processed_alternative / any_common,,,1.000 (1.000 to 1.000),Standardized representation-rate factor
+Standardized selection,US: P(UCD | any_common),,,0.368 (0.339 to 0.397),"WHO18-age, sex-equal, year-equal"
+Standardized selection,BR: P(UCD | any_common),,,0.527 (0.508 to 0.546),"WHO18-age, sex-equal, year-equal"
+Standardized selection contrast,Brazil minus US (RD),,,0.160 (0.125 to 0.194),"Quasibinomial, model-conditional"
+Standardized selection contrast,Brazil / US (RR),,,1.435 (1.316 to 1.563),"Quasibinomial, model-conditional"
+Crude selection (descriptive),BR: sum(UCD)/sum(any_common),,,0.585,Count-weighted; not standardized
+Crude selection (descriptive),US: sum(UCD)/sum(any_common),,,0.500,Count-weighted; not standardized

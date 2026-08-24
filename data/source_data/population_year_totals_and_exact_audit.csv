@@ -1,0 +1,97 @@
+﻿country,year,rebuilt_total,frozen_total,strata,strata_exact,all_strata_exact,difference,source_version
+US,2000,282162411,282162411,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2001,284968955,284968955,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2002,287625193,287625193,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2003,290107933,290107933,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2004,292805298,292805298,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2005,295516599,295516599,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2006,298379912,298379912,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2007,301231207,301231207,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2008,304093966,304093966,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2009,306771529,306771529,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2010,309327143,309327143,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2011,311583481,311583481,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2012,313877662,313877662,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2013,316059947,316059947,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2014,318386329,318386329,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2015,320738994,320738994,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2016,323071755,323071755,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2017,325122128,325122128,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2018,326838199,326838199,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2019,328329953,328329953,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2020,329484123,329484123,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2021,332099760,332099760,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2022,334017321,334017321,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2023,336806231,336806231,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+US,2024,340110988,340110988,36,36,True,0,Census intercensal 2000-2009 + 2010-2020 vintage + 2020-2024 vintage
+BR,2000,174695935,174695935,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2001,177003743,177003743,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2002,179228254,179228254,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2003,181377654,181377654,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2004,183469593,183469593,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2005,185518369,185518369,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2006,187535030,187535030,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2007,189458827,189458827,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2008,191335196,191335196,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2009,193174036,193174036,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2010,194749329,194749329,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2011,196158610,196158610,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2012,197670620,197670620,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2013,199226702,199226702,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2014,200811131,200811131,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2015,202403642,202403642,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2016,203871925,203871925,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2017,205211557,205211557,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2018,206529038,206529038,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2019,207900099,207900099,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2020,209164889,209164889,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2021,210103642,210103642,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2022,210862983,210862983,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2023,211695158,211695158,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2024,212583750,212583750,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2025,213421037,213421037,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2026,214211951,214211951,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2027,214959713,214959713,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2028,215667282,215667282,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2029,216337693,216337693,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2030,216973093,216973093,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2031,217562970,217562970,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2032,218096284,218096284,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2033,218574144,218574144,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2034,218997707,218997707,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2035,219367247,219367247,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2036,219681891,219681891,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2037,219940741,219940741,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2038,220144140,220144140,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2039,220292836,220292836,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2040,220386440,220386440,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2041,220425299,220425299,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2042,220410205,220410205,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2043,220341694,220341694,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2044,220220282,220220282,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2045,220045691,220045691,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2046,219817347,219817347,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2047,219535230,219535230,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2048,219199916,219199916,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2049,218811421,218811421,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2050,218369418,218369418,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2051,217873978,217873978,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2052,217325473,217325473,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2053,216724289,216724289,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2054,216070026,216070026,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2055,215362623,215362623,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2056,214603069,214603069,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2057,213793298,213793298,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2058,212934075,212934075,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2059,212025649,212025649,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2060,211069036,211069036,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2061,210066029,210066029,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2062,209018787,209018787,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2063,207928784,207928784,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2064,206797115,206797115,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2065,205625259,205625259,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2066,204415091,204415091,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2067,203168549,203168549,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2068,201887385,201887385,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2069,200573375,200573375,36,36,True,0,IBGE Projecao da Populacao 2024 table 2
+BR,2070,199228708,199228708,36,36,True,0,IBGE Projecao da Populacao 2024 table 2

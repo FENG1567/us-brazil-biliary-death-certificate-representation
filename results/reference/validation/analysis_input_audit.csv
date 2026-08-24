@@ -1,0 +1,12 @@
+check,value,status
+rows,936,PASS
+unique country-year-age-sex keys,936,PASS
+two countries,2,PASS
+13 years,13,PASS
+18 ages,18,PASS
+two sexes,2,PASS
+positive population,1,PASS
+nonnegative counts,1,PASS
+UCD <= any_common,1,PASS
+UCD <= alternative,1,PASS
+WHO normalized weights,1,PASS

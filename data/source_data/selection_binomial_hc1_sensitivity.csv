@@ -1,0 +1,2 @@
+us_selection,us_lower,us_upper,br_selection,br_lower,br_upper,risk_difference_br_minus_us,rd_lower,rd_upper,risk_ratio_br_over_us,rr_lower,rr_upper,model,covariance,estimand
+0.367551229413846,0.3433480907659,0.392440842757602,0.527255407194976,0.50924579468737,0.5451943657191,0.15970417778113,0.129261396365888,0.190146959196373,1.43450862084129,1.33081394005358,1.54628300871655,"grouped binomial with country-by-year, country-by-age, country-by-sex interactions",sandwich::vcovHC HC1,"WHO18-age, sex-equal, year-equal marginal selection contrast; robust uncertainty sensitivity"

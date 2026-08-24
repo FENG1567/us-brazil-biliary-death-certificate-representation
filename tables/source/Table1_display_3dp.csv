@@ -1,0 +1,3 @@
+﻿Country,Raw death records,Resident deaths,Analytic age-sex resident deaths,UCD K80-K83 (analytic),any_common (analytic),External validation
+Brazil,18103175,18103175,18028057,76121,130198,"DATASUS TabNet exact annual UCD and all-cause, 13/13"
+United States,38111858,38022561,38020975,70668,141449,WONDER partial/scope-limited (2018-2024; record-axis alternative/UCD)

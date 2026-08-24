@@ -1,0 +1,9 @@
+variable,type,allowed_or_unit,definition,source
+country,character,US; BR,National release system,v2 frozen stratum source
+year,integer,2012-2024,calendar year of death,v2 frozen stratum source
+age_group,character,0-4;5-9;10-14;15-19;20-24;25-29;30-34;35-39;40-44;45-49;50-54;55-59;60-64;65-69;70-74;75-79;80-84;85+,18 WHO-standardization age groups,v2 frozen stratum source
+sex,character,F; M,binary recorded sex,v2 frozen stratum source
+population,numeric,persons,frozen official population denominator,v2 frozen stratum source pop
+ucd,integer count,deaths,K80-K83 underlying-cause deaths,v2 frozen stratum source
+any_common,integer count,deaths,country-specific source representation: US UCD OR entity-axis K80-K83 mention; Brazil UCD OR saved certificate-line K80-K83 mention,v2 frozen stratum source
+alternative,integer count,deaths,system-processed alternative: US UCD OR record-axis K80-K83 mention; Brazil equals saved certificate-line any_common,v2 frozen any_system_expanded renamed

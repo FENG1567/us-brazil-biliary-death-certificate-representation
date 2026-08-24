@@ -1,0 +1,2 @@
+model,formula,n_observations,n_coefficients,design_rank,converged,pearson_dispersion,max_abs_pearson,n_abs_pearson_gt3,deviance,residual_df,n_zero_any_common_strata_excluded,zero_denominator_handling
+selection_quasibinomial_year_factor,"cbind(ucd, any_common - ucd) ~ country * factor(year) + country *      age_group + country * sex",906,62,62,TRUE,1.27964661521619,3.73792071644593,8,1124.05261791992,844,30,excluded from fit; predictions on full WHO18-age/sex/year grid are model-based

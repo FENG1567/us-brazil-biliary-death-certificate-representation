@@ -1,0 +1,3 @@
+model,n_coefficients,rank,converged,n_clusters
+primary,186,186,TRUE,936
+flexible,288,288,TRUE,936

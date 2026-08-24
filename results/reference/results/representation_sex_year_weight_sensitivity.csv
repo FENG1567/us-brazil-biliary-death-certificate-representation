@@ -1,0 +1,26 @@
+analysis,contrast,estimate,lower,upper,se_log,target_definition
+sex_female,BR_US_RR_ucd,3.51232434711837,3.43511662822035,3.5912673875506,0.0113403813628032,WHO18 age; female only; years equal
+sex_female,BR_US_RR_any_common,2.86862168338356,2.81372012096498,2.9245944900718,0.00985927065179398,WHO18 age; female only; years equal
+sex_female,BR_US_RR_alternative,2.91168586038904,2.85611908390881,2.96833370756615,0.00983087104438483,WHO18 age; female only; years equal
+sex_female,RRR_any_common_vs_ucd,0.816730290224214,0.807003688238376,0.826574124370907,0.00611259166624083,WHO18 age; female only; years equal
+sex_female,RRR_alternative_vs_any_common,1.01501214930324,1.01378297479487,1.01624281414042,0.000618228938441281,WHO18 age; female only; years equal
+sex_male,BR_US_RR_ucd,2.56898580454805,2.51102354924548,2.62828600948506,0.0116432315692329,WHO18 age; male only; years equal
+sex_male,BR_US_RR_any_common,2.10200437593216,2.06178369338938,2.14300967196731,0.00985707934590095,WHO18 age; male only; years equal
+sex_male,BR_US_RR_alternative,2.13027115577652,2.08949500121257,2.17184305035423,0.00986064501740534,WHO18 age; male only; years equal
+sex_male,RRR_any_common_vs_ucd,0.818223429732789,0.80788986631073,0.82868916777103,0.0064845385862537,WHO18 age; male only; years equal
+sex_male,RRR_alternative_vs_any_common,1.0134475361555,1.01227429061323,1.01462214151211,0.000590994008599493,WHO18 age; male only; years equal
+population_weighted_years,BR_US_RR_ucd,2.97028875180578,2.92443765770928,3.01685872695769,0.00793722576169116,WHO18 age; sex 0.5/0.5; year weights proportional to combined BR+US analytic population
+population_weighted_years,BR_US_RR_any_common,2.42296418264428,2.39153600142,2.45480537482657,0.00666113344770677,WHO18 age; sex 0.5/0.5; year weights proportional to combined BR+US analytic population
+population_weighted_years,BR_US_RR_alternative,2.45737285183535,2.42553240874392,2.48963127071331,0.00665397070684835,WHO18 age; sex 0.5/0.5; year weights proportional to combined BR+US analytic population
+population_weighted_years,RRR_any_common_vs_ucd,0.815733548184916,0.80848361029953,0.823048498642817,0.00455477575500545,WHO18 age; sex 0.5/0.5; year weights proportional to combined BR+US analytic population
+population_weighted_years,RRR_alternative_vs_any_common,1.01420106390245,1.01333900052477,1.01506386065096,0.000433854095550002,WHO18 age; sex 0.5/0.5; year weights proportional to combined BR+US analytic population
+recent_3_years_equal,BR_US_RR_ucd,2.88392693987356,2.79081142826147,2.980149253477,0.0167451521099643,WHO18 age; sex 0.5/0.5; stated year target
+recent_3_years_equal,BR_US_RR_any_common,2.25439470392069,2.19075809629959,2.31987981222124,0.014609115468734,WHO18 age; sex 0.5/0.5; stated year target
+recent_3_years_equal,BR_US_RR_alternative,2.28553041634819,2.22050415754352,2.35246093384103,0.0147264586771335,WHO18 age; sex 0.5/0.5; stated year target
+recent_3_years_equal,RRR_any_common_vs_ucd,0.781710060941948,0.768605854877675,0.795037684789843,0.00862531124824633,WHO18 age; sex 0.5/0.5; stated year target
+recent_3_years_equal,RRR_alternative_vs_any_common,1.01381111851148,1.01263846182514,1.01498513315899,0.000590485250966761,WHO18 age; sex 0.5/0.5; stated year target
+year_2024,BR_US_RR_ucd,2.99054061926194,2.80458673982638,3.18882388925836,0.0327540723907736,WHO18 age; sex 0.5/0.5; stated year target
+year_2024,BR_US_RR_any_common,2.30486185240661,2.17651831754251,2.44077346644039,0.0292317565016623,WHO18 age; sex 0.5/0.5; stated year target
+year_2024,BR_US_RR_alternative,2.33754452531214,2.20582805732498,2.47712617022521,0.0295908447227662,WHO18 age; sex 0.5/0.5; stated year target
+year_2024,RRR_any_common_vs_ucd,0.770717454082082,0.747016908002253,0.795169945504064,0.0159357245716927,WHO18 age; sex 0.5/0.5; stated year target
+year_2024,RRR_alternative_vs_any_common,1.01417988365394,1.01199616901743,1.01636831037312,0.0010997470339007,WHO18 age; sex 0.5/0.5; stated year target
