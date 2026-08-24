@@ -1,5 +1,5 @@
 "path","role","upload_to_github","record_level_mortality_data","bytes"
-".github/workflows/reproduce.yml","continuous_integration","yes","no","631"
+".github/workflows/reproduce.yml","continuous_integration","yes","no","915"
 ".gitignore","repository_metadata","yes","no","369"
 "CHANGELOG.md","repository_metadata","yes","no","422"
 "CITATION.cff","repository_metadata","yes","no","1601"

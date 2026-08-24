@@ -14,6 +14,15 @@ jobs:
         with:
           r-version: '4.3.1'
           use-public-rspm: true
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libpoppler-cpp-dev \
+            cmake \
+            libcurl4-openssl-dev \
+            libjpeg-dev \
+            libx11-dev
       - uses: r-lib/actions/setup-renv@v2
       - name: Reproduce and verify
         run: Rscript run_all.R all
