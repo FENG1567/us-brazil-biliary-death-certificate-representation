@@ -85,7 +85,7 @@
 "R/02_build_figures.R","analysis_code","yes","no","5921"
 "R/03_verify_reproduction.R","analysis_code","yes","no","4213"
 "README.md","repository_metadata","yes","no","5181"
-"renv.lock","repository_metadata","yes","no","113181"
+"renv.lock","repository_metadata","yes","no","114877"
 "REPRODUCTION_REPORT.md","repository_metadata","yes","no","1837"
 "results/generated/.gitkeep","repository_metadata","yes","no","1"
 "results/generated/annual_direct_standardized_rates.csv","generated_result","yes","no","6424"
